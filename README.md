@@ -1,6 +1,6 @@
 Howdy! <span class="wave">👋</span>
 - 👀 I love baking, running, cycling, gaming, and spending time with my husband, family & friends!
-- 🌱 I’m currently worrking on learning HTML and my Scrum certification!
+- 🌱 I’m currently worrking on learning HTML, CSS, JavaScript, React, MongoDB, & Express and my PM certification!
 - 📫 Please feel free to add me on [LinkedIn](https://www.linkedin.com/in/josiearent/) or email me at josiearent@gmail.com.
 
 <!---
